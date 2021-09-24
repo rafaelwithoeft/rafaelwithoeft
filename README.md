@@ -3,7 +3,7 @@
 I'm a Full Stack Web Developer with more than eight years experience in PHP and Yii Framework.
 Also have experience in javascript, jquery, and some little experiences with React, Flutter, ...
 
-:briefcase: I'm currently working on [FW7](https://www.linkedin.com/company/fw7-solucoes "FW7")
+:briefcase: I'm currently working at [FW7](https://www.linkedin.com/company/fw7-solucoes "FW7")
 
 Oh... one of my hobbies is appreciate amazing places, you can follow me on Instagram to see some ones.
 

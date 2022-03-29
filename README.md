@@ -22,6 +22,6 @@ Also have experience in Javascript, Typescript, jQuery, NodeJS, Git, SQL and som
 <br/>
 
 <p align="center">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=rafaelwithoeft&show_icons=true&theme=gotham" alt="rafaelwithoeft"/>
+ <!--<img align="center" src="https://github-readme-stats.vercel.app/api?username=rafaelwithoeft&show_icons=true&theme=gotham" alt="rafaelwithoeft"/>-->
  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaelwithoeft&layout=compact" alt="rafaelwithoeft"/>
 </p>

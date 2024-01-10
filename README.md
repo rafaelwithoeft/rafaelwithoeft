@@ -21,8 +21,6 @@ Also have experience in Javascript, Typescript, jQuery, NodeJS, Git, SQL, React 
 <br/>
 <br/>
 
-🧗‍♂️ Skills:
-
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=js,ts,jquery,nodejs,react,html,git,php" />

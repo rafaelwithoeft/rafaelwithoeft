@@ -1,7 +1,7 @@
 ### Hello, I'm Rafael.
 
 I'm a Full Stack Web Developer with more than eight years experience in PHP and Yii Framework.
-Also have experience in Javascript, Typescript, jQuery, NodeJS, Git, SQL, React and React Native and some little experiences with React, Flutter, Wordpress, AWS ...
+Also have experience in Javascript, Typescript, jQuery, NodeJS, Git, SQL, React and React Native and some little experiences with Flutter, FastLane, Wordpress, AWS ...
 
 <br/>
 

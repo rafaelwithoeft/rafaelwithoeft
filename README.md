@@ -41,4 +41,5 @@ Also have experience in Javascript, Typescript, jQuery, NodeJS, Git, SQL, React 
 <p align="center">
   <a href="https://www.udemy.com/user/rafael-withoeft-2/" target="blank"><img align="center" src="https://img.shields.io/badge/Udemy-A435F0?style=for-the-badge&logo=Udemy&logoColor=white" alt="rafaelwithoeft"/></a>
   <a href="https://www.netflix.com" target="blank"><img align="center" src="https://img.shields.io/badge/Netflix-E50914?style=for-the-badge&logo=netflix&logoColor=white" alt="rafaelwithoeft"/></a>
+  🏕️⛰️🥾
 </p>

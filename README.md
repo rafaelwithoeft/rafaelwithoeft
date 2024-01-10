@@ -22,11 +22,11 @@ Also have experience in Javascript, Typescript, jQuery, NodeJS, Git, SQL, React 
 <br/>
 
 🧗‍♂️ Skills:
-[![My Skills](https://skillicons.dev/icons?i=js,ts,jquery,nodejs,react,html,git,php)](https://skillicons.dev)
 
+<p align="center">
+ [![My Skills](https://skillicons.dev/icons?i=js,ts,jquery,nodejs,react,html,git,php)](https://skillicons.dev)
+</p>
 
-<br/>
-<br/>
 <br/>
 
 <p align="center">

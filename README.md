@@ -37,7 +37,7 @@ Also have experience in Javascript, Typescript, jQuery, NodeJS, Jest, Git, SQL, 
 </p>
 
 <p align="center">
-  📫 When I'm offline:
+  💻 When I'm not working:
 </p>
 <p align="center">
   <a href="https://www.udemy.com/user/rafael-withoeft-2/" target="blank"><img align="center" src="https://img.shields.io/badge/Udemy-A435F0?style=for-the-badge&logo=Udemy&logoColor=white" alt="rafaelwithoeft"/></a>

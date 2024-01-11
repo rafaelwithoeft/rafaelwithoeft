@@ -1,7 +1,7 @@
 ### Hello, I'm Rafael.
 
 I'm a Full Stack Web Developer with more than eight years experience in PHP and Yii Framework.
-Also have experience in Javascript, Typescript, jQuery, NodeJS, Git, SQL, React and React Native and some little experiences with Flutter, FastLane, Wordpress, AWS ...
+Also have experience in Javascript, Typescript, jQuery, NodeJS, Jest, Git, SQL, React, React Native and some little experiences with Flutter, FastLane, Wordpress, AWS, MongoDB, MySQL...
 
 <br/>
 
@@ -12,9 +12,10 @@ Also have experience in Javascript, Typescript, jQuery, NodeJS, Git, SQL, React 
 📫 How to reach me:
 
 <p align="left">
-  <a href="https://linkedin.com/in/rafaelwithoeft" target="blank"><img align="center" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="rafaelwithoeft"/></a>
-  <a href="https://pt.stackoverflow.com/users/21222/rafael-withoeft" target="blank"><img align="center" src="https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" alt="rafaelwithoeft"/></a>
-  <a href="https://instagram.com/rafaelwithoeft" target="blank"><img align="center" src="https://img.shields.io/badge/rafaelwithoeft-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="rafaelwithoeft"/></a>
+  <a href="https://linkedin.com/in/rafaelwithoeft" target="_blank"><img align="center" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="rafaelwithoeft"/></a>
+  <a href="https://pt.stackoverflow.com/users/21222/rafael-withoeft" target="_blank"><img align="center" src="https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" alt="rafaelwithoeft"/></a>
+  <a href="https://instagram.com/rafaelwithoeft" target="_blank"><img align="center" src="https://img.shields.io/badge/rafaelwithoeft-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="rafaelwithoeft"/></a>
+  <a href="mailto:rafaelwithoeft@gmail.com"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="rafaelwithoeft"/></a>
   
 </p>
 
@@ -24,7 +25,7 @@ Also have experience in Javascript, Typescript, jQuery, NodeJS, Git, SQL, React 
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,ts,jquery,nodejs,react,jest,html,git,php" />
+    <img src="https://skillicons.dev/icons?i=js,ts,jquery,nodejs,react,jest,html,git,php,mysql,mongodb" />
   </a>
 </p>
 

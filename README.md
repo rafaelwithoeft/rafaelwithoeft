@@ -3,8 +3,6 @@
 I'm a Full Stack Web Developer with more than eight years experience in PHP and Yii Framework.
 Also have experience in Javascript, Typescript, jQuery, NodeJS, Jest, Git, SQL, React, React Native and some little experiences with Flutter, FastLane, Wordpress, AWS, MongoDB, MySQL...
 
-<br/>
-
 :briefcase: I'm currently working at [FW7](https://www.linkedin.com/company/fw7-solucoes "FW7")
 
 <br/>
@@ -31,8 +29,12 @@ Also have experience in Javascript, Typescript, jQuery, NodeJS, Jest, Git, SQL, 
 <br/>
 
 <p align="center">
-  <!--<img align="center" src="https://github-readme-stats.vercel.app/api?username=rafaelwithoeft&show_icons=true&theme=gotham" alt="rafaelwit[](url)hoeft"/>-->
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaelwithoeft&layout=compact" alt="rafaelwithoeft"/>
+</p>
+
+<br/>
+
+<p align="center">
   <a href="https://app.daily.dev/rafaelwithoeft">
     <img src="https://api.daily.dev/devcards/88d9939d67b14266880e6eefec9be6db.png?r=bxf" width="400" alt="Rafael Withoeft's Dev Card"/>
   </a>

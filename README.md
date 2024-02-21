@@ -35,9 +35,7 @@ Also have experience in Javascript, Typescript, jQuery, NodeJS, Jest, Git, SQL, 
 <br/>
 
 <p align="center">
-  <a href="https://app.daily.dev/rafaelwithoeft">
-    <img src="https://api.daily.dev/devcards/88d9939d67b14266880e6eefec9be6db.png?r=bxf" width="400" alt="Rafael Withoeft's Dev Card"/>
-  </a>
+  <a href="https://app.daily.dev/rafaelwithoeft"><img src="https://api.daily.dev/devcards/v2/BTt7ehgmL2ErSfICUzPv4.png?r=x3c" width="356" alt="Rafael Withoeft's Dev Card"/></a>
 </p>
 
 <p align="center">

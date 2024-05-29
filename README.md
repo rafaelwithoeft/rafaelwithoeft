@@ -29,7 +29,7 @@ Also have experience in Javascript, Typescript, jQuery, NodeJS, Jest, Git, SQL, 
 <br/>
 
 <p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaelwithoeft&layout=compact" alt="rafaelwithoeft"/>
+  <a href="https://app.daily.dev/rafaelwithoeft"><img src="https://api.daily.dev/devcards/v2/BTt7ehgmL2ErSfICUzPv4.png?type=wide&r=j9y" width="652" alt="Rafael Withoeft's Dev Card"/></a>
 </p>
 
 <br/>

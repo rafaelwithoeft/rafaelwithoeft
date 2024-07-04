@@ -1,7 +1,7 @@
 ### Hello, I'm Rafael.
 
-I'm a Full Stack Web Developer with more than eight years experience in PHP and Yii Framework.
-Also have experience in Javascript, Typescript, jQuery, NodeJS, Jest, Git, SQL, React, React Native and some little experiences with Flutter, FastLane, Wordpress, AWS, MongoDB, MySQL...
+I'm a Full Stack Web Developer with more than eleven years experience in development.
+I have been working in last three years with Javascript, Typescript, React, React Native, NodeJS, Jest, Git, SQL, jQuery and some experiences with MongoDB, MySQL...
 
 :briefcase: I'm currently working at [FW7](https://www.linkedin.com/company/fw7-solucoes "FW7")
 
@@ -11,6 +11,7 @@ Also have experience in Javascript, Typescript, jQuery, NodeJS, Jest, Git, SQL, 
 
 <p align="left">
   <a href="https://linkedin.com/in/rafaelwithoeft" target="_blank"><img align="center" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="rafaelwithoeft"/></a>
+  <a href="[https://linkedin.com/in/rafaelwithoeft](https://www.codewars.com/users/rafaelwithoeft)" target="_blank"><img align="center" src="https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=codewars&logoColor=white" alt="rafaelwithoeft"/></a>
   <a href="https://pt.stackoverflow.com/users/21222/rafael-withoeft" target="_blank"><img align="center" src="https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" alt="rafaelwithoeft"/></a>
   <a href="https://instagram.com/rafaelwithoeft" target="_blank"><img align="center" src="https://img.shields.io/badge/rafaelwithoeft-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="rafaelwithoeft"/></a>
   <a href="mailto:rafaelwithoeft@gmail.com"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="rafaelwithoeft"/></a>
@@ -22,7 +23,7 @@ Also have experience in Javascript, Typescript, jQuery, NodeJS, Jest, Git, SQL, 
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,ts,jquery,nodejs,react,jest,html,git,php,mysql,mongodb" />
+    <img src="https://skillicons.dev/icons?i=js,ts,react,nodejs,graphql,jest,php,html,jquery,git,mysql,mongodb" />
   </a>
 </p>
 

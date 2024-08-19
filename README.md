@@ -3,8 +3,6 @@
 I'm a Full Stack Web Developer with more than eleven years experience in development.
 I have been working in last three years with Javascript, Typescript, React, React Native, NodeJS, Jest, Git, SQL, jQuery and some experiences with MongoDB, MySQL...
 
-:briefcase: I'm currently working at [FW7](https://www.linkedin.com/company/fw7-solucoes "FW7")
-
 <br/>
 
 📫 How to reach me:

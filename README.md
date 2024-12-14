@@ -20,7 +20,7 @@ I have been working in last three years with Javascript, Typescript, React, Reac
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,ts,react,nodejs,graphql,jest,php,html,jquery,git,mysql,mongodb" />
+    <img src="https://skillicons.dev/icons?i=js,ts,react,nodejs,graphql,jest,vitest,php,html,css,jquery,git,mysql,postgres,mongodb,yarn,pnpm,npm" />
   </a>
 </p>
 <p align="center">

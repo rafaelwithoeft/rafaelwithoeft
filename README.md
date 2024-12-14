@@ -1,7 +1,9 @@
 ### Hello, I'm Rafael.
 
-I'm a Full Stack Web Developer with more than eleven years experience in development.
-I have been working in last three years with Javascript, Typescript, React, React Native, NodeJS, Jest, Git, SQL, jQuery and some experiences with MongoDB, MySQL...
+I'm a Full Stack Developer with over twelve years of experience in development.
+For the past four years, I've been working mostly with JavaScript, TypeScript, Node.js, Jest, Vitest, Git, SQL, and I also have some experience with MongoDB, MySQL, and Postgres.
+
+In addition to that, I've worked with PHP, React, React Native, maintained some older systems using jQuery, and even did some freelance projects using Hexagonal and Clean Architecture.
 
 <br/>
 

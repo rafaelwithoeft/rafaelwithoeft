@@ -3,7 +3,7 @@
 I'm a Full Stack Developer with over twelve years of experience in development.
 For the past four years, I've been working mostly with JavaScript, TypeScript, Node.js, Jest, Vitest, Git, SQL, and I also have some experience with MongoDB, MySQL, and Postgres.
 
-In addition to that, I've worked with PHP, React, React Native, maintained some older systems using jQuery, and even did some freelance projects using Hexagonal, Clean Architecture and DDD (Domain Driven-Design).
+In addition to that, I've worked with PHP, React, React Native, maintained some older systems using jQuery, and even did some freelance projects using Hexagonal, Clean Architecture and DDD (Domain-Driven Design).
 
 <br/>
 
